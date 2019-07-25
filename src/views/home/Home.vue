@@ -5,7 +5,7 @@
         <v-card>
           <v-layout align-center justify-center>
             <v-btn tile href="https://github.com/ckcasola">GitHub</v-btn>
-            <v-btn tile href="https://www.linkedin.com/in/ckcasola/"
+            <v-btn tile href="https://www.linkedin.com/in/ccasola/"
               >LinkdIn</v-btn
             >
             <v-btn
