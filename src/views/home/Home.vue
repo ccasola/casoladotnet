@@ -4,8 +4,8 @@
       <v-flex xs12 sm8 md4>
         <v-card>
           <v-layout align-center justify-center>
-            <v-btn tile href="https://github.com/ckcasola">GitHub</v-btn>
-            <v-btn tile href="https://www.linkedin.com/in/ccasola/"
+            <v-btn tile href="https://github.com/ccasola">GitHub</v-btn>
+            <v-btn tile href="https://www.linkedin.com/in/ckcasola/"
               >LinkdIn</v-btn
             >
             <v-btn
